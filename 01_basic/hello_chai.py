@@ -16,4 +16,5 @@ chai("haji chai")
 # Argument: An argument is the actual value you pass to the function when calling it.
 # Parameter: A parameter is the variable listed inside the parentheses in a function definition.
 
-
+chai_one = "black chai"
+chai_two = "lemon chai"
