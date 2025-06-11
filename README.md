@@ -1,1 +1,1 @@
-## python beginner friendly notes
+# Python beginner-friendly notes 📖
